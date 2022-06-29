@@ -1,0 +1,7 @@
+.close{
+    @apply flex w-20 transition delay-75 bg-slate-500 h-screen pt-28 px-6 overflow-hidden
+}
+
+.open{
+    @apply flex basis-48 h-screen bg-slate-500 pt-28 px-6 transition-all delay-75
+}
